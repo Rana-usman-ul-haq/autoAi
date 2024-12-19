@@ -1,6 +1,14 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.26;
 
+/*
+
+Twitter: https://x.com/AutoAI_
+Telegram: https://t.me/+mPAqVPitsJ5mMGMx
+Website: https://useautoai.io/
+
+*/
+
 
 abstract contract Context {
     function _msgSender() internal view virtual returns (address) {
